@@ -26,6 +26,6 @@
     ],
     "dependencies": {
         "polymer": "Polymer/polymer#master",
-        "leaflet-map": "nhnb/leaflet-map#master"
+        "leaflet-map": "BlackhawkWebComponents/leaflet-map#master"
     }
 }
